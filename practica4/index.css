@@ -1,0 +1,27 @@
+#header img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;   
+    }
+    html{
+        background-image: url(\(m=eaAaGwObaaaa\)\(mh=M9PPNnu-sojUHQZ_\)3.jpg);
+    }
+.container text-center__row{
+        text-align: left;
+    }
+.container text-center1{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(245px,1fr));
+    grid-gap: 3rem;
+    margin: 2rem 0;
+}
+.footer{
+text-align: left;
+ }
+ .container__text-center11--img{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(245px,1fr));
+    grid-gap: 3rem;
+    margin: 2rem 0;
+}
+ 
